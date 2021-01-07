@@ -1,0 +1,40 @@
+@charset"utf-8";
+div#interface{
+    margin-top: 30px;
+    margin: auto;
+    
+    text-align: center;
+    width: 300px;
+    
+}
+
+div#interface p{
+    float: left;   
+   
+
+}
+.espaco img{
+    width: 50px;
+    height: 50px;
+    margin-top: 15px;
+}
+
+
+img#imagen{
+    
+    
+    width: 50px;
+    height: 50px;
+    
+
+}
+.tabuleiro{
+    margin-top: 20px;
+}
+
+.espaco{
+    width: 80px;
+    height: 80px;
+    border: 2px solid black;
+    float: left;
+}
